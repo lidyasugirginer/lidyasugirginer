@@ -35,7 +35,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=lidyasugirginer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lidyasugirginer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lidya's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lidyasugirginer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lidya's GitHub Stats" width="49%" />
 </p>
 
 <p align="center">
@@ -43,10 +43,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidyasugirginer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lidyasugirginer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lidya-su-g-23a8a4323)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lidya-su-g-23a8a4323)
