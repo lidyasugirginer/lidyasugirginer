@@ -34,7 +34,7 @@
 ### 🔥 Activity & Contribution Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lidyasugirginer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=lidyasugirginer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api?username=lidyasugirginer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lidya's GitHub Stats" width="49%" />
 </p>
 
@@ -49,4 +49,4 @@
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lidyasugirginer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lidya-su-g-23a8a4323)
