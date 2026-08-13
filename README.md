@@ -35,15 +35,11 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=lidyasugirginer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lidyasugirginer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lidya's GitHub Stats" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lidyasugirginer&theme=tokyonight&area=true&hide_border=true" alt="Contribution Graph" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lidyasugirginer&theme=tokyonight&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lidyasugirginer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://komarev.com/ghpvc/?username=lidyasugirginer&label=Profile%20Views&color=7952b3&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
