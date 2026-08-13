@@ -1,4 +1,4 @@
-# Hi there, I'm Lidya Su! 👋
+# Hi there, I'm Lidya! 👋
 
 ### 👩‍💻 About Me
 * 🎓 **Software Engineering** student at Adana Alparslan Türkeş Science and Technology University.
