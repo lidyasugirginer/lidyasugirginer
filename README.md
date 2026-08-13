@@ -4,7 +4,7 @@
 * 🎓 **Software Engineering** student at Adana Alparslan Türkeş Science and Technology University.
 * 🚀 Passionate about **Full-Stack Web Development** and modern web ecosystems.
 * 🛠️ Building responsive, high-performance web applications and continuously learning new technologies.
-* ⚙️ Enthusiastic about **AI integration**, AI-driven software workflows, and smart web applications
+* ⚙️ Enthusiastic about **AI integration**, AI-driven software workflows, and smart web applications.
 
 ---
 
