@@ -31,16 +31,13 @@
 
 ---
 
-### 🔥 Activity & Contribution Stats
+### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lidyasugirginer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lidyasugirginer&theme=tokyonight&area=true&hide_border=true" alt="Contribution Graph" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lidyasugirginer&label=Profile%20Views&color=7952b3&style=flat-square" alt="Profile Views" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lidyasugirginer/lidyasugirginer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lidyasugirginer/lidyasugirginer/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lidyasugirginer/lidyasugirginer/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
